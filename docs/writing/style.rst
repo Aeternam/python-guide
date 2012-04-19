@@ -168,7 +168,7 @@ list of what is considered false.
     if not attr:
         print 'attr is falsey!'
 
-    # or, since None is considered false, explicity check for it
+    # or, since None is considered false, explicitely check for it
     if attr is None:
         print 'attr is None!'
 
